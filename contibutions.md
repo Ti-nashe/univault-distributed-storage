@@ -5,7 +5,7 @@
 | Member | Student Number | GitHub Username | Role |
 |---|---|---|---|
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | designer and programmer |
-|Member 2 |N02649597S |shalomc7 | group leader and writer |
+|Shalom Chihwenga |N02649597S |shalomc7 | group leader and writer |
 | Solomon Chikwavarara | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation,Presenter |
 | Kachafa Julius| N02655625D | Julius29|designer and programmer|
 | Bright Mudimu | N02651783C | brightm14 | group leader, writer and presenter |
