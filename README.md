@@ -39,7 +39,7 @@ The group will:
 | No. | Full Name | Student Number |
 |---|---|---|
 | 1 | Solomon Chikwavarara | n02648532w |
-| 2 | [Member 2] | [Student Number] |
+| 2 | Sheunopa T Chitauro | n02645487g |
 | 3 | [Member 3] | [Student Number] |
 | 4 | [Member 4] | [Student Number] |
 | 5 | [Member 5] | [Student Number] |
