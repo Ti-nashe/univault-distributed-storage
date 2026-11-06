@@ -16,7 +16,7 @@
 | Mukodza Taurai K| N02642099Y | Mukodza | Designer and Programmer |
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research |
 | Hannah Hove|N02652892E|Hannah-06-beep| Presenter|
-| Member 14| To be filled | To be filled | To be filled |
+| Tinashe T Macheza| N02652163J | Ti-nashe | Research|
 | Member 15| To be filled | To be filled | To be filled |
 
 
