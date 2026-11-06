@@ -15,7 +15,7 @@
  | Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
 | Mukodza Taurai K| N02642099Y | Mukodza | Designer and Programmer |
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research |
-| Member 13| To be filled | To be filled |  To be filled|
+| Hannah Hove|N02652892E|Hannah-06-beep| Presenter|
 | Member 14| To be filled | To be filled | To be filled |
 | Member 15| To be filled | To be filled | To be filled |
 
