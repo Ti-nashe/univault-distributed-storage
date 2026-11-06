@@ -11,7 +11,7 @@
 | Bright Mudimu | N02651783C | brightm14 | group leader, writer and presenter |
 | Tawanaishe B Chirenje | n02640892x |  n02640892x | System testing and evaluation |
 | Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings |
-| Malvin Makiwa| n02654040x | Malvin45 | Build |
+| Malvin Makiwa| n02654040x | Malvin45 | designer and programmer |
  | Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
 | Mukodza Taurai K| N02642099Y | Mukodza | Designer and Programmer |
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research |
